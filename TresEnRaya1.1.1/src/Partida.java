@@ -30,8 +30,7 @@ public class Partida {
     this.reglas = reglas;
     finalizada = false;
     tablero = new Tablero(filas, columnas);
-    turno = Ficha.CIRCULO;
-    //HOLA QUE TAL  ESTAS 
+    turno = Ficha.CIRCULO; 
   }
 
   /**
