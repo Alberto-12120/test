@@ -31,6 +31,7 @@ public class Partida {
     finalizada = false;
     tablero = new Tablero(filas, columnas);
     turno = Ficha.CIRCULO;
+    //HOLA QUE TAL  ESTAS 
   }
 
   /**
